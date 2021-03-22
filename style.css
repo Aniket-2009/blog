@@ -1,0 +1,26 @@
+body{
+    background-image:linear-gradient(to right,aqua,yellow);
+    text-align: center;
+    
+}
+#underline{
+    height: 4px;
+    width:auto;
+    background-color:black;
+}
+.image-section{
+    display:flex;
+    justify-content: center;
+}
+.section-style{
+    margin-left:25px;
+    margin-right:25px;
+    background-color:white;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+.resize{
+    height: 400px;
+    width:400px;
+   
+}
